@@ -1,7 +1,9 @@
 # Lektion 3 mars
 
 ## Övningar
+
 **Pages**
+
 Gör en enkel layout bestående av header, och tre routes med 3st vy-komponenter ( views ). Headern ska innehålla en navigering mellan vyerna ( links ).
 
 - Home
